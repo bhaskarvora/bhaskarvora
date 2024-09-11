@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Vora</h1>
-<h3 align="center">I am a self motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.</h3>
+<h3 align="center">I am a highly motivated and adaptable professional with a strong enthusiasm for embracing new challenges. Driven by a passion for continuous learning, I am committed to delivering exceptional results. My positive outlook and growth mindset enable me to contribute effectively and strive for excellence in all my endeavors.</h3>
 
 <img align="right" alt="Coding" width ="400" src ="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
