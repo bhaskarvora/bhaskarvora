@@ -1,5 +1,5 @@
 <h1> Hello, I'm Bhaskar Vora, great to see you here!
- <img src="https://github.com/bhaskarvora/bhaskarvora/developer_10227450.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+ <img src="https://github.com/bhaskarvora/bhaskarvora/blob/main/developer_10227450.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [Wilfrid Laurier University]((https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html)). 
 
