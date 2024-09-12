@@ -5,7 +5,11 @@
 
 * 🧑🏻‍💻 Software Engineer with experience of  1.5 years working as Data Scientist Intern, Web Developer Intern and Android Developer Intern 
 
-* 💡 Always open to collaborating on projects and innovative ideas. 
+* 💡 Always open to collaborating on projects and innovative ideas.
+
+* 💬 Ask me about *App Development, Web Development, MERN Stack, Data Science, IOT*
+  
+* ⚡ Fun fact *Apart from coding I love to play Piano*
 
 * 💻 Seeking Full Time Opportunities in Winter 2025
 
