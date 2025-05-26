@@ -3,15 +3,13 @@
 
 * 📖 Pursuing my Master's in Applied Computing (MAC) from [Wilfrid Laurier University]((https://www.wlu.ca/programs/science/graduate/applied-computing-mac/index.html)). 
 
-* 🧑🏻‍💻 Software Engineer with experience of  1.5 years working as Data Scientist Intern, Web Developer Intern and Android Developer Intern 
+* 🧑🏻‍💻 Software Engineer with experience of 3 years working as Data Scientist , Web Developer  and Android Developer and Django Developer 
 
 * 💡 Always open to collaborating on projects and innovative ideas.
 
 * 💬 Ask me about App Development, Web Development, MERN Stack, Data Science, IOT
   
 * ⚡ Fun fact Apart from coding I love to play Piano
-
-* 💻 Seeking Full Time Opportunities in Winter 2025
 
 Find out more about me & feel free to connect with me here:
 
